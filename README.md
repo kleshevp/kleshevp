@@ -4,7 +4,7 @@
 
 ---
 
-## 🚀 Мои технологии
+## 🚀 Что я использую
 ![Python](https://img.shields.io/badge/Python-3.11-blue?style=for-the-badge)
 ![Rust](https://img.shields.io/badge/Rust-1.72-orange?style=for-the-badge)
 ![Arduino](https://img.shields.io/badge/Arduino-IDE-red?style=for-the-badge)
