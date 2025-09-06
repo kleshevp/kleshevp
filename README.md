@@ -8,7 +8,6 @@
 ![Python](https://img.shields.io/badge/Python-3.11-blue?style=for-the-badge)
 ![Rust](https://img.shields.io/badge/Rust-1.72-orange?style=for-the-badge)
 ![Arduino](https://img.shields.io/badge/Arduino-IDE-red?style=for-the-badge)
-![Microcontrollers](https://img.shields.io/badge/Microcontrollers-TFT%2C-Wemos-green?style=for-the-badge)
 ![Telegram](https://img.shields.io/badge/Telegram-bots-blue?style=for-the-badge)
 ![Discord](https://img.shields.io/badge/Discord-bots-purple?style=for-the-badge)
 
